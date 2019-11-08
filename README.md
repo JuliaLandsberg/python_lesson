@@ -1,5 +1,7 @@
 # Python Lesson
 
-## Julia Landsberg
+## Author
+
+Julia Landsberg
 
 ## Date 2019-11-08
